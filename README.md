@@ -53,5 +53,5 @@
 ## ⚙️ Languages and Tools
 
 <div align="center">
-  <img src="tech_stack.svg" alt="Languages and Tools" width="800" />
+  <img src="tech_stack.svg?v=2" alt="Languages and Tools" width="800" />
 </div>
