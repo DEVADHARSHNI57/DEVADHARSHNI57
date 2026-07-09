@@ -59,3 +59,7 @@
 <div align="center">
   <img src="tech_stack_original.svg" alt="Languages and Tools" width="800" />
 </div>
+
+<p align="center">
+  <code>System.out.println("Hello World!");</code>
+</p>
