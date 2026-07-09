@@ -50,30 +50,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0221&height=2&section=header" width="100%"/>
 
-## ⚙️ Tech Stack
+## ⚙️ Languages and Tools
 
 <div align="center">
-
-**Languages**
-
-![java](https://skillicons.dev/icons?i=java,js,c) &nbsp; ![sql](https://img.shields.io/badge/SQL-9D4EDD?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![frontend](https://skillicons.dev/icons?i=html,css,js)
-
-**Backend & Databases**
-
-![backend](https://skillicons.dev/icons?i=spring,postgresql)
-
-**Embedded & Hardware**
-
-![embedded](https://skillicons.dev/icons?i=arduino)
-![STM32](https://img.shields.io/badge/STM32-7B2CBF?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-5A189A?style=flat-square&logo=espressif&logoColor=white)
-
-**Tooling & Platforms**
-
-![tools](https://skillicons.dev/icons?i=git,github,vscode,matlab)
-
+  <img src="tech_stack.svg" alt="Languages and Tools" width="800" />
 </div>
