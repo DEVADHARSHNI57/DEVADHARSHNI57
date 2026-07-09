@@ -32,7 +32,7 @@
 ## ⚡ Languages & Skills
 
 <p align="center">
-  <img src="languages_skills.gif" alt="Languages & Skills" width="100%" />
+  <img src="languages_skills.gif" alt="Languages & Skills" width="600" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0221&height=2&section=header" width="100%"/>
