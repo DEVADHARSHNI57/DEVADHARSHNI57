@@ -35,6 +35,10 @@
   <img src="languages_skills.png" alt="Languages & Skills" width="400" />
 </p>
 
+<p align="center">
+  <code>System.out.println("Hello World!");</code>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0221&height=2&section=header" width="100%"/>
 
 ## 📬 Connect With Me
