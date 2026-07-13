@@ -15,14 +15,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-E0AAFF?style=for-the-badge&logo=firefox&logoColor=10041F)](https://devadharshni57.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=10041F)](https://www.linkedin.com/in/devadharshni-c)
 [![Gmail](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=10041F)](mailto:devadharshni33@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=E0AAFF)](https://github.com/DEVADHARSHNI57)
+[![LeetCode](https://img.shields.io/badge/LeetCode-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=E0AAFF&labelColor=10041F)](https://leetcode.com/u/DEVADHARSHNI57/)
 
 <br/>
 
 
 ![Followers](https://img.shields.io/github/followers/DEVADHARSHNI57?style=for-the-badge&color=7B2CBF&labelColor=10041F&logo=github&logoColor=E0AAFF)
 ![Stars](https://img.shields.io/github/stars/DEVADHARSHNI57?style=for-the-badge&color=5A189A&labelColor=10041F&logo=star&logoColor=E0AAFF)
-![Profile Views](https://komarev.com/ghpvc/?username=DEVADHARSHNI57&label=PROFILE%20VIEWS&color=7B2CBF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DEVADHARSHNI57&label=Profile%20Views&color=9D4EDD&style=for-the-badge&labelColor=10041F)
 
 </div>
 
