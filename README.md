@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-E0AAFF?style=for-the-badge&logo=firefox&logoColor=10041F)](https://devadharshni57.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=10041F)](https://www.linkedin.com/in/devadharshni-c)
 [![Gmail](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=10041F)](mailto:devadharshni33@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=E0AAFF&labelColor=10041F)](https://leetcode.com/u/DEVADHARSHNI57/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=E0AAFF&labelColor=10041F)](https://leetcode.com/u/DEVADHARSHNI11/)
 
 <br/>
 
